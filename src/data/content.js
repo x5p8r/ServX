@@ -64,7 +64,7 @@ export const content = {
         title: 'مولد QR Code مجاني 🎁',
         subtitle: 'أداة بسيطة لتوليد رموز QR مجاناً وبدون إعلانات.',
         color: 'red',
-        href: 'https://example.com/qr',
+        href: 'https://qr-code-kappa-inky.vercel.app',
         external: true,
       },
     ],
@@ -128,7 +128,7 @@ export const content = {
         subtitle:
           'Pick the features you need and get an instant price & timeline estimate.',
         color: 'slate',
-        href: 'https://example.com/calculator',
+        href: 'https://mayar-web-theta.vercel.app',
         external: true,
       },
       {
@@ -143,7 +143,7 @@ export const content = {
         title: 'Free QR Code Generator 🎁',
         subtitle: 'A simple QR tool — free, no ads.',
         color: 'red',
-        href: 'https://example.com/qr',
+        href: 'https://qr-code-kappa-inky.vercel.app',
         external: true,
       },
     ],
