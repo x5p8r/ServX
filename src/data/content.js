@@ -57,7 +57,7 @@ export const content = {
         title: 'معرض الأعمال 📁',
         subtitle: 'شاهد أمثلة لأعمالنا من مواقع وبوتات سابقة.',
         color: 'yellow',
-        href: '#about',
+        href: 'https://web-catalog-iota.vercel.app',
       },
       {
         id: 'qr',
@@ -136,7 +136,7 @@ export const content = {
         title: 'Portfolio 📁',
         subtitle: 'See examples of our past websites and bots.',
         color: 'yellow',
-        href: '#about',
+        href: 'https://web-catalog-iota.vercel.app',
       },
       {
         id: 'qr',
