@@ -19,7 +19,7 @@ export const content = {
         subtitle:
           'منيو تفاعلي وسريع للمطاعم والكافيهات، سهل التحديث وبدون غلبة طباعة.',
         color: 'amber',
-        href: '#services',
+        href: 'https://menu-orcin-pi.vercel.app',
       },
       {
         id: 'store',
@@ -40,7 +40,7 @@ export const content = {
     hosting: {
       title: 'استضافة مواقع سريعة',
       subtitle:
-        'أداء ممتاز واستقرار لموقعك بـ 5.40$ شهرياً فقط بدون وجع رأس.',
+        'أداء ممتاز واستقرار لموقعك بـ 5.40$ شهرياً فقط .',
     },
     tools: [
       {
@@ -98,14 +98,14 @@ export const content = {
         subtitle:
           'Interactive, fast menus for restaurants & cafés — easy to update, no printing hassle.',
         color: 'amber',
-        href: '#services',
+        href: 'https://menu-orcin-pi.vercel.app',
       },
       {
         id: 'store',
         title: 'Full E-Commerce Store',
         subtitle: 'Manage products and sales — ready to launch.',
         color: 'orange',
-        href: '#services',
+        href: 'https://cooffee-menu.vercel.app',
       },
       {
         id: 'bots',
@@ -160,4 +160,4 @@ export const content = {
 }
 
 /** Replace with your real WhatsApp number (country code, no +) */
-export const WHATSAPP_URL = 'https://wa.me/966500000000'
+export const WHATSAPP_URL = 'https://wa.me/905520420027'
