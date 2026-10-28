@@ -158,7 +158,7 @@ export default function App() {
               title={t.contact.githubTitle}
               subtitle={t.contact.githubSubtitle}
               color="slate"
-              href="https://github.com/x5p8r/ServX"
+              href="https://github.com/x5p8r"
               external
             />
           </div>
