@@ -8,6 +8,8 @@ import {
   Folder,
   QrCode,
   MessageSquare,
+  Globe,
+  CodeXml,
 } from 'lucide-react'
 import TopNav from './components/TopNav'
 import BottomNav from './components/BottomNav'
@@ -18,6 +20,7 @@ import { content, WHATSAPP_URL } from './data/content'
 
 const serviceIcons = {
   menu: Utensils,
+  hostiger: Globe,
   store: ShoppingCart,
   bots: Send,
 }
@@ -149,6 +152,16 @@ export default function App() {
             href={WHATSAPP_URL}
             external
           />
+          <div className="mt-3">
+            <ServiceCard
+              icon={CodeXml}
+              title={t.contact.githubTitle}
+              subtitle={t.contact.githubSubtitle}
+              color="slate"
+              href="https://github.com/x5p8r/ServX"
+              external
+            />
+          </div>
         </section>
 
         {/* FAQ */}

@@ -22,6 +22,13 @@ export const content = {
         href: 'https://menu-orcin-pi.vercel.app',
       },
       {
+        id: 'hostiger',
+        title: 'Hostiger',
+        subtitle: 'موقع مفصل لجميع خدماتنا',
+        color: 'blue',
+        href: 'https://hostiger.vercel.app',
+      },
+      {
         id: 'store',
         title: 'متجر إلكتروني متكامل',
         subtitle: 'إدارة منتجاتك ومبيعاتك، جاهز للتشغيل.',
@@ -61,17 +68,20 @@ export const content = {
       },
       {
         id: 'qr',
-        title: 'مولد QR Code مجاني 🎁',
+        title: '27 اداة مجانية على قيت هب 🎁',
         subtitle: 'أداة بسيطة لتوليد رموز QR مجاناً وبدون إعلانات.',
         color: 'red',
-        href: 'https://qr-code-kappa-inky.vercel.app',
+        href: 'https://x5p8r.github.io/flux',
         external: true,
       },
     ],
     contact: {
       title: 'تواصل معي عبر الواتساب',
       subtitle: 'استفسر عن خدماتنا أو اطلب خدمة مخصصة.',
+      githubTitle: 'تابعنا على GitHub',
+      githubSubtitle: 'اطّلع على مشاريعنا ومصدرها البرمجي.',
     },
+
     faqTitle: 'أسئلة شائعة ❓',
     faq: [
       { q: 'كم مدة التنفيذ؟', a: 'حوالي 6 أيام حسب حجم المشروع.' },
@@ -99,6 +109,13 @@ export const content = {
           'Interactive, fast menus for restaurants & cafés — easy to update, no printing hassle.',
         color: 'amber',
         href: 'https://menu-orcin-pi.vercel.app',
+      },
+      {
+        id: 'hostiger',
+        title: 'Hostiger',
+        subtitle: 'A comprehensive website for all our services.',
+        color: 'blue',
+        href: 'https://hostiger.vercel.app',
       },
       {
         id: 'store',
@@ -140,16 +157,18 @@ export const content = {
       },
       {
         id: 'qr',
-        title: 'Free QR Code Generator 🎁',
+        title: 'Free 27 Tools on GitHub 🎁',
         subtitle: 'A simple QR tool — free, no ads.',
         color: 'red',
-        href: 'https://qr-code-kappa-inky.vercel.app',
+        href: 'https://x5p8r.github.io/flux',
         external: true,
       },
     ],
     contact: {
       title: 'Chat on WhatsApp',
       subtitle: 'Ask about our services or request a custom solution.',
+      githubTitle: 'Visit us on GitHub',
+      githubSubtitle: 'Explore our projects and source code.',
     },
     faqTitle: 'Frequently Asked Questions ❓',
     faq: [
